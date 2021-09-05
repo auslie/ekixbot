@@ -1,0 +1,2 @@
+# ekixBot
+Status: Beta
