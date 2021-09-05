@@ -3,7 +3,7 @@
 // @description     ekixbot
 // @license         ISC; https://github.com/ekix7/ekixbot/LICENCES
 // @namespace       https://github.com/ekix7/ekixbot
-// @version         1.1.0
+// @version         1.1.2
 // @include         http://computernewb.com/collab-vm/*
 // @include         http://vm.getgle.org/*
 // @include         http://collabvm.com/*
